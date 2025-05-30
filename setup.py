@@ -21,7 +21,7 @@ setup(
     },
     python_requires=">=3.9",
     install_requires=[
-        "torch>=2.1,<2.3",
+        "torch>=2.1,<2.8",
         "configargparse",
         "ctranslate2>=4,<5",
         "tensorboard>=2.3",
